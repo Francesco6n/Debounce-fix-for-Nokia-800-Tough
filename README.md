@@ -14,3 +14,8 @@ Simple instructions:
 12) adb reboot
 
 Enjoy!
+
+Credits:
+Bananahackers for the keyboard manipulation guide
+Eren Cizmecioglu for the original fix of Nokia 8110 4G
+Me for adapting the code to the nokia 800 Tough
