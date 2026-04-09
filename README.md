@@ -1,4 +1,4 @@
-Simple instructions:
+## Simple instructions:
 
 1) Root your device
 2) Get minimal adb and fastboot
@@ -13,11 +13,11 @@ Simple instructions:
 11) adb push webapps.json /data/local/webapps/
 12) adb reboot
 
-Enjoy!
+### Enjoy!
 
 
 
-Credits:
+# Credits:
 Bananahackers for the keyboard manipulation guide
 
 Eren Cizmecioglu for the original fix of Nokia 8110 4G
